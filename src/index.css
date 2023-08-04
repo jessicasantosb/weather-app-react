@@ -98,9 +98,6 @@ body {
   .temperature h1 {
     font-size: 4rem;
   }
-  .bottom {
-    margin-top: 20px;
-  }
   .bottom div p:first-child, .location p, .description p {
     font-size: 1.25rem;
   }

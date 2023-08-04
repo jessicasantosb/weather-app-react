@@ -1,9 +1,6 @@
 # Weather App
 
 ## Project description
-<h4 align="center"> 
-	🚧  Weather app 🚀 Building...  🚧
-</h4>
 <p align="center">Welcome to my web page! Here, you'll find a web application that shows weather data using React, API, Java Script and Node.js.</p>    
 <div align="center">
   <p align="center">
@@ -12,7 +9,7 @@
 </div>
 <br>
 <h1 align="center">
-    <a href="">Live preview soon</a>
+    <a href="https://weather-app-react-7f5vuza17-jessicasantosb.vercel.app/">See live preview</a>
 </h1>
 <br>
 <p align="center">🚀 Created by Jessica Bandeira</p>
