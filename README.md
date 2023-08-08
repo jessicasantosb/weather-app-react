@@ -9,7 +9,7 @@
 </div>
 <br>
 <h1 align="center">
-    <a href="https://weather-app-react-7f5vuza17-jessicasantosb.vercel.app/">See live preview</a>
+    <a href="https://weather-app-react-nnly64lze-jessicasantosb.vercel.app/">See live preview</a>
 </h1>
 <br>
 <p align="center">🚀 Created by Jessica Bandeira</p>
