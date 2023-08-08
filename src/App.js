@@ -9,11 +9,16 @@ function App() {
 
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=${apiKey}`
 
-  const searchLocation = (event) => {
+  const searchLocation = async (event) => {
     if (event.key === 'Enter') {
-      axios.get(url).then((response) => {
-        setData(response.data)
-      })
+      try {
+        await axios.get(url)
+      .then((response) => {setData(response.data)})
+      } catch (err) {
+        console.log(err)
+        alert('Please, check the city name.')
+        return
+      }
     }
   }
 
